@@ -21,3 +21,10 @@ PHP – Handles server-side logic and dynamic content loading
 CSS – For styling and layout
 
 HTML5 – Native video player support
+
+
+📌 Notes
+
+This is a basic version meant for educational/demo purposes.
+
+You can integrate a database (e.g. MySQL) to add user accounts, comments, or video metadata.
